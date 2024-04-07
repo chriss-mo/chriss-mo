@@ -1,4 +1,3 @@
-# Hi, I'm Chris Mo.
 ### I'm a third-year data science student at UC San Diego, and I am interested in Machine and Deep Learning, as well as data analytics and business intelligience.
 
 <!---
