@@ -9,6 +9,7 @@
 
 <details>
   <summary>Show more</summary>
+  
   ### Languages: 
   * Python
   * SQL 
