@@ -8,15 +8,17 @@
 </p>
 
 <details>
-  <summary>Show more</summary>
+  <summary>More about me!</summary>
   
   ### Languages: 
-  * Python
+  * Python (numpy, pandas, matplotlib, plotly, seaborn)
   * SQL 
   * R
   * Matlab 
   * C++
-  * Java  
+  * Java
+  * Javascript (React.js)
+  * HTML/CSS
     
   ### ML Frameworks:  
   * PyTorch
