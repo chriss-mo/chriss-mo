@@ -26,7 +26,10 @@
  Social Media: [LinkedIn](https://www.linkedin.com/in/chris-mo-195367176/)
   <details>
     <summary>Award(s):</summary>
-    ### DiamondHacks 2024 Best in Category - All Hands on Deck
+    
+  ### DiamondHacks 2024 Best in Category - All Hands on Deck
+  [Sirona Clinical](https://github.com/vinumaradana/PatientMatch)  
+    
   </details>
 
 </details>
