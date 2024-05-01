@@ -40,7 +40,7 @@
     
   ### DiamondHacks 2024 Best in Category - All Hands on Deck
   [Sirona Clinical](https://github.com/vinumaradana/PatientMatch)  
-  (![image](https://github.com/chriss-mo/chriss-mo/assets/156863651/e8115085-7fd9-48be-bb1c-943354fca809))
+  ![image](https://github.com/chriss-mo/chriss-mo/assets/156863651/e8115085-7fd9-48be-bb1c-943354fca809)
     
   </details>
 
