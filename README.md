@@ -19,14 +19,23 @@
   * Java
   * Javascript (React.js)
   * HTML/CSS
+  * Unix
     
   ### ML Frameworks:  
   * PyTorch
   * TensorFlow
   * Keras
-  * Scikit-Learn  
+  * Scikit-Learn
 
- Social Media: [LinkedIn](https://www.linkedin.com/in/chris-mo-195367176/)
+  ### Softwares:
+  * Tableu
+  * Ergo/IGOR
+  * Git
+  * Microsoft Office Suite
+  * Solidworks
+  * Autodesk Inventor
+
+ [Find me on LinkedIn!](https://www.linkedin.com/in/chris-mo-195367176/)
   <details>
     <summary><b>Award(s):</b></summary>
     
