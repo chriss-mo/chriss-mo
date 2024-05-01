@@ -32,8 +32,7 @@
   * Ergo/IGOR
   * Git
   * Microsoft Office Suite
-  * Solidworks
-  * Autodesk Inventor
+  * CAD (Solidworks, Autodesk Inventor, OnShape, SketchUp)
 
  [Find me on LinkedIn!](https://www.linkedin.com/in/chris-mo-195367176/)
   <details>
