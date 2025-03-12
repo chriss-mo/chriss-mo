@@ -11,13 +11,13 @@
   <summary>More about me!</summary>
   
   ### Languages: 
-  * Python (numpy, pandas, matplotlib, plotly, seaborn)
+  * Python
   * SQL 
   * R
   * Matlab 
   * C++
   * Java
-  * Javascript (React.js)
+  * Javascript (React, D3)
   * HTML/CSS
   * Unix
     
@@ -28,7 +28,7 @@
   * Scikit-Learn
 
   ### Softwares:
-  * Tableu
+  * Tableau
   * Ergo/IGOR
   * Git
   * Microsoft Office Suite
