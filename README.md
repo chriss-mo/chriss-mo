@@ -2,11 +2,6 @@
 
 ### Thanks for stopping by! I'm a third-year data science student at UC San Diego interested in AI/ML and data analytics/engineering.
 
-<p align="center"> 
-  Visitor count:<br>
-  <img src="https://profile-counter.glitch.me/chriss-mo/count.svg" />
-</p>
-
 <details>
   <summary>More about me!</summary>
   
