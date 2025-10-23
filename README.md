@@ -1,6 +1,6 @@
 # Chris Mo  
 
-### Thanks for stopping by! I'm a third-year data science student at UC San Diego interested in AI/ML and data analytics/engineering.
+### Thanks for stopping by! I'm a fourth-year data science student at UC San Diego interested in AI/ML and data analytics/engineering.
 
 <details>
   <summary>More about me!</summary>
